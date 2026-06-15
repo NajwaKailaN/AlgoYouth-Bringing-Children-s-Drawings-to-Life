@@ -103,11 +103,8 @@ AlgoYouth aims to:
 
 ## Project Gallery
 
-* Learning station activities
-* Children's drawings
-* Drawing recognition process
-* Animated rainforest environment
-* User interaction examples
+<img width="1920" height="1080" alt="{BEBB0884-EAAD-4C9A-AD16-E66C2F58D40C}" src="https://github.com/user-attachments/assets/3e71f03c-dd66-4236-b493-6b0b5917e61f" />
+
 
 ---
 
