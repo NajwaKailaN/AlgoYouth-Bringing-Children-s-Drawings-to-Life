@@ -17,8 +17,7 @@ Traditional learning methods often rely on one-way information delivery, making 
 In addition, some children face challenges communicating their thoughts and ideas verbally.
 
 We asked ourselves:
-
-> How can technology help children learn, imagine, and express themselves in a more meaningful way?
+*How can technology help children learn, imagine, and express themselves in a more meaningful way?*
 
 ---
 
